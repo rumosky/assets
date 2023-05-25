@@ -1,0 +1,2 @@
+# assets
+jsdeliver static assets
